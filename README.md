@@ -4,7 +4,7 @@
 
 <!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Crafting+Modern+Web+Experiences✨;React.js+%7C+Tailwind+%7C+Bootstrap;AI-Driven+Projects+%7C+Responsive+Designs;Always+Learning+%26+Building🚀&center=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer+%7C+UI+Specialist;HTML+%7C+CSS+%7C+JavaScript;React.js+%7C+Tailwind+%7C+Bootstrap;Pixel+Perfect+Designs+%7C+Responsive+UIs;Building+Amazing+User+Experiences🔮&center=true&size=22&duration=2500&pause=1000">
 </p>
 
 ---
