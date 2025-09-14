@@ -1,24 +1,25 @@
-<!-- Header -->
-<h1 align="center">⚡ Udit Sharma ⚡</h1>
-<h3 align="center">Frontend UI UX Developer | React.js Enthusiast | AI Project Innovator 🤖</h3>
+<!-- Banner -->
+<h1 align="center">✨ Hey, I'm <span style="color:#38B2AC">Udit Sharma</span> 👨‍💻</h1>
+<h3 align="center">Frontend UI/UX Developer • React.js Enthusiast • AI Innovator 🤖</h3>
+
+---
 
 <!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React.js+Enthusiast;TailwindCSS+%7C+Bootstrap+%7C+SCSS;HTML+%7C+CSS+%7C+JavaScript;Pixel+Perfect+UI+Designs;Responsive+Development;Creating+Amazing+Experiences✨&center=true&size=22&width=600&duration=3000&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React.js+%26+UI+Lover;TailwindCSS+%7C+Bootstrap+%7C+SCSS;Pixel+Perfect+Designs;Responsive+%26+Dynamic+Websites;AI-Driven+Projects;Creative+Problem+Solver💡&center=true&size=22&width=650&duration=3000&pause=1000">
 </p>
 
 ---
 
-## 🚀 About Me  
-🌟 Passionate **Frontend UI Developer** specialized in building **responsive, modern interfaces**  
-💻 Skilled in **React.js, TailwindCSS, Bootstrap, SCSS, HTML, CSS, JavaScript**  
-🤖 Experienced with **AI-powered projects** integrating smart features into UIs  
-🎨 Obsessed with sleek, minimal and user-friendly designs  
-⚡ Motto: *"I don't just code websites, I design digital experiences."* ✨  
+## 🚀 About Me 🙋‍♂️
+🎨 Designing interfaces that are **modern, minimal, and pixel‑perfect**  
+💻 Tech stack ranging from **React.js, TailwindCSS, Bootstrap, SCSS, HTML, CSS, JS**  
+🤖 Love experimenting with **AI projects + front‑end creativity**  
+⚡ Motto: *“Websites shouldn’t just work – they should wow!”*  
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠 My Creative Toolbox 🧰
 <p align="center">
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -32,32 +33,37 @@
 
 ---
 
-## ✨ Highlighted Projects  
-Some of my proud creations 👇  
+## ✨ Featured Creations 💎
+Here are some of my proud works 👇
 
-- 🎨 **Personal Portfolio (React + TailwindCSS)**  
-   Clean and interactive portfolio website — [Live Demo](👉 link)  
+- 🎨 **Personal Portfolio (React + Tailwind)**  
+   🎯 Clean & interactive portfolio — [Live Demo](👉 link)  
 
 - 🍿 **Netflix UI Clone (React + SCSS)**  
-   A pixel-perfect OTT streaming interface — [Repo](👉 link)  
+   🎬 Pixel-perfect replica — [Repo](👉 link)  
 
 - ⛅ **Weather App (React + Bootstrap + API)**  
-   Real-time weather checker with dynamic UI — [Repo](👉 link)  
+   🌦 Live weather updates in style — [Repo](👉 link)  
 
 - 🤖 **AI-Powered Web App**  
-   Frontend app integrated with AI features — [Repo](👉 link)  
+   ⚡ Smart frontend with AI features — [Repo](👉 link)  
 
-- 🧩 **Reusable UI Component Library**  
-   Buttons, cards, modals & more — [Repo](👉 link)  
+- 🧩 **Custom UI Library**  
+   🖌️ Buttons, modals, cards & animations — [Repo](👉 link)  
 
 ---
 
-## 🌐 Connect with Me  
+## 🌐 Connect with Me 🌍
 <p align="center">
   <a href="👉 your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="👉 your-portfolio"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"></a>
   <a href="👉 your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter"></a>
 </p>
+
+---
+
+<h2 align="center">⚡ Fun Fact ⚡</h2>
+<p align="center">I debug CSS faster when I've got a cup of ☕ in my hand!</p>
 
 ---
 
