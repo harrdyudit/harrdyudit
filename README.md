@@ -4,14 +4,14 @@
 
 <!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer+%7C+UI+Specialist;HTML+%7C+CSS+%7C+JavaScript;React.js+%7C+Tailwind+%7C+Bootstrap;Pixel+Perfect+Designs+%7C+Responsive+UIs;Building+Amazing+User+Experiences🔮&center=true&size=22&duration=2500&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer+%7C+UI+Specialist;React.js+%7C+TailwindCSS+%7C+Bootstrap;HTML+%7C+CSS+%7C+JavaScript+%7C+SCSS;Pixel+Perfect+Designs+%7C+Responsive+UIs;Building+Modern+%26+Amazing+User+Experiences✨&center=true&size=22&duration=3000&pause=1000">
 </p>
 
 ---
 
 ## 🚀 About Me  
-🌟 Passionate **UI Developer** specialized in building **responsive, modern interfaces**  
-💻 Skilled in **HTML, CSS, JavaScript, SCSS, Tailwind, Bootstrap, React.js**  
+🌟 Passionate **Frontend UI Developer** specialized in building **responsive, modern interfaces**  
+💻 Skilled in **React.js, Tailwind, Bootstrap, SCSS, HTML, CSS, JavaScript**  
 🤖 Experienced with **AI-powered projects** integrating intelligent features into UIs  
 🎨 Obsessed with minimal, sleek, and user-friendly designs  
 ⚡ Motto: *"I don't just code websites, I design digital experiences."* ✨  
@@ -20,13 +20,13 @@
 
 ## 🛠️ Tech Stack  
 <p align="center">
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCSS-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/SCSS-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/AI%20Projects-%2300C853?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
