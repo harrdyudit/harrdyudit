@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">⚡ Udit Sharma ⚡</h1>
-<h3 align="center">Frontend UI Developer | React.js Enthusiast | AI Project Innovator 🤖</h3>
+<h3 align="center">Frontend UI UX Developer | React.js Enthusiast | AI Project Innovator 🤖</h3>
 
 <!-- Typing Effect -->
 <p align="center">
