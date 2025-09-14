@@ -4,16 +4,16 @@
 
 <!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer+%7C+UI+Specialist;React.js+%7C+TailwindCSS+%7C+Bootstrap;HTML+%7C+CSS+%7C+JavaScript+%7C+SCSS;Pixel+Perfect+Designs+%7C+Responsive+UIs;Building+Modern+%26+Amazing+User+Experiences✨&center=true&size=22&duration=3000&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React.js+Enthusiast;TailwindCSS+%7C+Bootstrap+%7C+SCSS;HTML+%7C+CSS+%7C+JavaScript;Pixel+Perfect+UI+Designs;Responsive+Development;Creating+Amazing+Experiences✨&center=true&size=22&width=600&duration=3000&pause=1000">
 </p>
 
 ---
 
 ## 🚀 About Me  
 🌟 Passionate **Frontend UI Developer** specialized in building **responsive, modern interfaces**  
-💻 Skilled in **React.js, Tailwind, Bootstrap, SCSS, HTML, CSS, JavaScript**  
-🤖 Experienced with **AI-powered projects** integrating intelligent features into UIs  
-🎨 Obsessed with minimal, sleek, and user-friendly designs  
+💻 Skilled in **React.js, TailwindCSS, Bootstrap, SCSS, HTML, CSS, JavaScript**  
+🤖 Experienced with **AI-powered projects** integrating smart features into UIs  
+🎨 Obsessed with sleek, minimal and user-friendly designs  
 ⚡ Motto: *"I don't just code websites, I design digital experiences."* ✨  
 
 ---
@@ -35,28 +35,28 @@
 ## ✨ Highlighted Projects  
 Some of my proud creations 👇  
 
-- 🎨 **Personal Portfolio (React + Tailwind)**  
-   Clean and interactive personal website — [Live Demo](👉 link)  
+- 🎨 **Personal Portfolio (React + TailwindCSS)**  
+   Clean and interactive portfolio website — [Live Demo](👉 link)  
 
 - 🍿 **Netflix UI Clone (React + SCSS)**  
-   A pixel-perfect OTT streaming UI — [Repo](👉 link)  
+   A pixel-perfect OTT streaming interface — [Repo](👉 link)  
 
-- ⛅ **Weather Checker App (React + Bootstrap + API)**  
-   Real-time weather with dynamic UI — [Repo](👉 link)  
+- ⛅ **Weather App (React + Bootstrap + API)**  
+   Real-time weather checker with dynamic UI — [Repo](👉 link)  
 
-- 🤖 **AI-Powered Application**  
+- 🤖 **AI-Powered Web App**  
    Frontend app integrated with AI features — [Repo](👉 link)  
 
-- 🧩 **Reusable UI Components Library**  
-   Collection of aesthetic & responsive UI components — [Repo](👉 link)  
+- 🧩 **Reusable UI Component Library**  
+   Buttons, cards, modals & more — [Repo](👉 link)  
 
 ---
 
 ## 🌐 Connect with Me  
 <p align="center">
-  <a href="👉 your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="👉 your-portfolio"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel" /></a>
-  <a href="👉 your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" /></a>
+  <a href="👉 your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="👉 your-portfolio"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"></a>
+  <a href="👉 your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter"></a>
 </p>
 
 ---
